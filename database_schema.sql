@@ -20,5 +20,5 @@ Employee_ID INT,
 Attendance_Date DATE,
 Status VARCHAR(20),
 FOREIGN KEY(Employee_ID)
-REFERENCES Employees(Employee_ID)
+REFERENCES Employees(Employee_ID) 
 );
