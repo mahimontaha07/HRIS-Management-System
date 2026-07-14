@@ -19,3 +19,14 @@ A Human Resource Information System (HRIS) developed as a Database Management Sy
 13. Expected Output
 14. Future Improvements
 15. Team Members 
+
+
+
+# Project Overview
+
+The Human Resource Information System (HRIS) replaces manual HR record keeping with a secure and user-friendly web application. It allows HR staff to efficiently manage employee information, attendance, leave, payroll, and department records using a centralized MySQL database.
+
+The system follows CRUD (Create, Read, Update, Delete) operations and demonstrates practical implementation of database concepts learned in the Database Management System course.
+
+
+
